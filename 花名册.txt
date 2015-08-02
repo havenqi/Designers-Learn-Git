@@ -1,10 +1,10 @@
 
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
-﻿
+Michael Jordan  Player
 HelloK          Engineer
 Haven           Architect
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
-niuniu          学生
+niuniu          学生妹
 nsynet          师计设
 qqxufo          1111111111
 niu		学生
@@ -14,6 +14,7 @@ Funpee	        设计师
 shihong         攻城狮就是我
 Brill           Tester
 shi             设计师
+唐嫣            演员
 Rayflavor       设计师
 ziyu            设计师好高端
 GaryTo          想学设计的市场系学生
